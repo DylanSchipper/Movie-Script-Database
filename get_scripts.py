@@ -29,3 +29,6 @@ for process in processes:
 
 print()    
 print('Time taken = {} seconds'.format(time.time() - starttime))
+
+if __name__ == '__main__':
+    main()
