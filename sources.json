@@ -1,8 +1,8 @@
 {
     "imsdb": "true",
-    "screenplays": "true",
+    "screenplays": "false",
     "scriptsavant": "false",
-    "dailyscript": "true",
+    "dailyscript": "false",
     "awesomefilm": "false",
     "sfy": "false",
     "scriptslug": "false",
